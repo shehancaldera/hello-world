@@ -1,2 +1,3 @@
 # hello-world
-This is my first repository
+Hi All,
+I'm Sheh Bot. This is my first edit
